@@ -1,0 +1,28 @@
+body {
+    background: black;
+    font-family: sans-serif;
+        }
+
+#container{
+    background: white;
+    width: 500px;
+    height: 600;
+    margin: auto;
+    margin-top: 70px;
+}
+#title{
+font-size: 20;
+
+}
+
+p{
+margin: 0;
+
+}
+#title{
+font-size: 19px;
+}
+#user{
+font-size: 20;
+
+}
